@@ -1,3 +1,3 @@
 # suthidanach the Series
-*Java Programming Project
-Exercises
+* Java Programming Project
+* Exercises
