@@ -1,3 +1,3 @@
-# suthida the Series
+# suthidanach the Series
 *Java Programming Project
 Exercises
